@@ -1,0 +1,36 @@
+body { /* Webpages Background */
+    background-image: url(/Images/BlueGalaxy.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+  }
+
+  h1 {
+    font-style: oblique;
+    font-size: 65px;
+    font-style: italic;
+    color: rgb(0, 0, 0);
+  }
+
+  h6 {
+    color: transparent;
+  }
+
+  img {
+    border-radius: 25%;
+    width: 145px;
+    float: center;
+    height: 145px;
+    
+  }
+
+  p {
+    color: white;
+  }
+
+  left {
+    float: left;
+  }
+
+
+
